@@ -1,0 +1,278 @@
+Hello.
+I’m May Song, UX/UI designer based in Bay area, CA.
+I design effective and friendly experience.
+Raven
+WEB, MOBILE
+A simple and effective cloud storage product
+https://www.raven.com/
+100%
+9:41 AM
+Raven.com
+Save, share, and enjoy all your files from anywhere, with Raven
+Saving the interesting links you find on web, and sharing your Christmas photos with family, meanwhile, collaborating with your team members.
+Raven
+Sign In
+Sign up for free
+Project 2
+WEB, MOBILE
+A simple and effective cloud storage product
+© 2018 Designed and Developed by May (Meizhu) Song
+https://www.website.com/
+© 2018 Designed and Developed by May (Meizhu) Song
+Raven
+WEB, MOBILE
+A simple and effective cloud storage product
+https://www.raven.com/
+100%
+9:41 AM
+Raven.com
+Save, share, and enjoy all your files from anywhere, with Raven
+Saving the interesting links you find on web, and sharing your Christmas photos with family, meanwhile, collaborating with your team members.
+Raven
+Sign In
+Sign up for free
+Project 2
+WEB, MOBILE
+A simple and effective cloud storage product
+I design effective and friendly experience.
+I’m May Song, UX/UI designer based in Bay Area, CA.
+Hello.
+RESUME
+WORKS
+ABOUT
+CONTACT
+https://www.website.com/
+© 2018 Designed and Developed by May (Meizhu) Song
+Three years ago, when I picked up the painting brush, I realized things had to be changed.  I like drawing from a very early age. I drew the cartoon and comic with my best friend when we were in elementary school. We created a character who was a teenage girl and a super detective with purple eyes and blond hair. Yes, purple eyes… I don’t remember the character’s name, but that must be the earliest girl power awareness of my friend and I. We went to different middle schools and my passion of art was repressed because of the heavy schoolwork and the pressure of getting into college.  I selected accounting as my major and even got a master degree the last. I like the analysis and logic behind this field, and keeping a book clean and balanced always makes me fulfilled. However, deep down inside me, the flame of art has never been extinguished. I started sketching and drawing with charcoal and colored pencil in my spare time.  Three years ago, I joined a painting studio and got to know a lot of like-minded friends. We got together and painted every Sunday. That’s when I wanted to switch career. That career can give me a chance to be creative and allow me to play to my analytical and organizational skills. Now I’m here. I found that career.  My observational and analytical ability which developed through years of accounting work help find out design problems and solve them. Then, my art experience help turn the thoughts into reality. 
+Yo-Yo Ma
+because if you're passionate about something, then you're more willing to take risks.
+Passion is one great force that unleashes creativity, 
+RESUME
+WORKS
+ABOUT
+CONTACT
+HOME
+WORKS
+ABOUT
+RESUME
+CONTACT
+https://www.website.com/
+RESUME
+WORKS
+ABOUT
+CONTACT
+HOME
+© 2018 Designed and Developed by May (Meizhu) Song
+View Prototype
+Raven
+WEB, MOBILE
+A simple and effective cloud storage product
+https://www.raven.com/
+100%
+9:41 AM
+Raven.com
+Save, share, and enjoy all your files from anywhere, with Raven
+Saving the interesting links you find on web, and sharing your Christmas photos with family, meanwhile, collaborating with your team members.
+Raven
+Sign In
+Sign up for free
+UX Design Visual Design Brand & Identity User Research & Testing
+Design Roles
+User Surveys Personas Competitive Analysis Brand Concept User Stories & Flows Paper Prototype Wire-Frames User Testing Visual Design
+Design Deliverables
+Sketch Invision Usability Hub Draw.io myBalsamiq Google Sheets Google Forms 
+Skills & Tools
+Project Summary
+In this project, I created Raven, which is a simple and effective cloud storage product with a user- friendly and minimalist design. Raven lets you save, share, and enjoy all your files from anywhere. I am the designer of this project. I have used Sketch, Invision, Usability Hub, Draw.io, myBalsamiq, and several Google drive apps (Google Docs, Google Sheets, Google Forms, etc.) to complete this project.  
+View Prototype
+Problem
+The client would like to have a cloud storage which has multiple features:  save, organize, and create files, meanwhile collaborating with others. Thus, the main problem that I am facing is how to realize and harmonize those features in one cloud storage product. Additionally, those features have different priorities. This cloud storage product should split the primary and secondary tasks and features. 
+Solution
+With Raven, individuals could save, upload, and organize files for their own purpose. Saving the interesting links you find on the web, and sharing the Christmas photos with family and friends would not affect your collaborating with team members. All your team’s files are stored in the cloud so everyone on the team can access, edit, comment and share any of the files in real time from any device. With the simple and effective design, those functionalities are integrated with one product and can be approached easily by users. 
+Problem &  Solution
+Branding &  Identity
+The primary colors of Raven include Dodger Blue, Raven Black, and White. The Dodger Blue represents the bright and intelligent essence of Raven. The Black and White provide the necessary proficiency and reliability. Our accent colors (yellow, purple, blue, and red) provide more ways to highlight and distinguish our product and should be applied sparingly to accent select parts.
+Color Palette
+Merriweather is our brand typeface, and it is primarily used for headlines with initial caps. Open Sans is the complementary typeface of Raven. It is optimized for print, web, and mobile interfaces, and have excellent legibility characteristics in its letterforms. It is used for subtitles, body elements, and labels.
+Brand Typeface
+x
+x
+y
+y
+y
+Raven
+Raven
+Raven
+Brand Identity & Logo
+Raven is committed to creating a simple and effective cloud storage product with a user-friendly and minimalist design. The product name, raven, represents the spirit of sharp, intelligence, and curiosity. A raven not only has the common character as other birds, the exploration of broadness sky but has high intelligence and an organized social structure. They work as a team. As you may know, ravens like to collect valuables and keep their belongings safe. All these characteristics let raven become the best representative of our product. The logo is an integral part of the Raven brand and should be used thoughtfully and consistently. The wordmark should most often be displayed in black/white with or without the logo icon. Our logo can be used either on its own or together with the wordmark which is based on the Damion typeface with the first letter in uppercase giving a sharp and energetic feeling.
+Information Achitecture
+User Stories
+After reviewed my personas again before creating the user stories, I put myself in the shoes of each of those user types and learned about what matters the most to them and what matters the least. Then I created user stories for the new user and return user, and ranked the tasks by importance. User story connects business concerns with the user research. It determines the order in which I will work on things and how long I will work on them. 
+User Flows
+Transforming user stories into user flows is an important step before creating wireframes. I generated several user flows of the high-priority user stories. They are: create an account, sign in, create content, organize content, delete files, upload files, and share items. 
+Enter email and PW
+ Start
+Dashboard
+Link
+Enter new folder name
+ Start
+ Start
+Select move
+Spreadsheet
+ Start
+Items deleted
+Upload successful
+ Start
+Select items
+Select files from pop out window
+Wireframes
+Before investing any time in the visual design, wireframes provide me with a map that can be tested on real people and great clarity into how information will be organized on the screen. The goal was keeping my pages simple, clean, and effortless to use. In order to pin down my final design, I first sketched those high priority features and pages with pen and paper. I also tried different styles of the homepage, dashboard, and the sign in page.
+Low Fidelity Mockups
+In order to test the features I’ve created, the low-fidelity mockups and prototype was the next step. I added more details on the wireframes and completed the most text content for the going forward user testing. Then I created a prototype with InVision.
+User Testing & Visual Design
+User Testing, First Round
+I conducted three usability tests of my low-fidelity mockups. My goal was to direct the testers to provide feedback about the overall user experience and how easy or difficult it is to the following tasks:
+	• 	Signing up for an account. 	• 	Adding a piece of content. 	• 	Organizing a piece of content.
+Based on the feedback, I identified several items could be improved and some other items were approved by users. 
+	• 	Limited text using is approved by users. The homepage is concise and clean, but need some enrichment, like more features, videos, and user testimonials. 	• 	Sign up process is smooth. No popping up window is more convenience and eye-catching, while sign in button would better be enlarged.  	• 	Keeping the design less distractive in order to help users complete their work efficiently. 	• 	Users showed the proper images they thought for the homepage. All images provide a professional working feeling, like a laptop, a cup of coffee on a desk, a notebook and a pencil, etc.
+Preference Testing
+Before investing any time in the visual design, wireframes provide me with a map that can be tested on real people and great clarity into how information will be organized on the screen. The goal was keeping my pages simple, clean, and effortless to use. In order to pin down my final design, I first sketched those high priority features and pages with pen and paper. I also tried different styles of the homepage, dashboard, and the sign in page.
+Between the two homepage design, 40% participants chose the dark color background and 60% chose the light color. The main reasons for choosing dark color are: This background looks more professional; The contrast and readability are better; It is concise and clean, which is a better match for a cloud storage website. The reasons people prefer the light color image as the background are: It’s vivid and fresh; It is trendy and more consistent with the rest color of the homepage; The balloons express a feeling of vitality and exploration.  My original design is the light color with balloons. I’d like to keep it for a better consistency and expression.
+Between the two types of folder icon, I got a draw). The normal yellow kind of folder is a standard folder design. Participants state that it is easily acceptable. They have been seeing this folder everywhere. While the bluish folder is not that classical but trendy and more marked. Users like the folder on the blue theme. I personally prefer the blue folder, since the theme consistency is important.  
+I have created two colors for “update my account” button on the dashboard. Most people (80%) prefer the yellow button. Both of the colors are the accent colors, but with a blue background, yellow gives better contrast, and would easily draw users’ attention. As a result, I would change my original purple button to yellow.
+Challenge
+The challenge I ran into was how to assemble the logo and wordmark together on Raven’s website. The combination of the logo and wordmark was not balanced, and there was not enough space for both on the top left corner. The wordmark had provided the sharp and intelligent feeling of this product with the Damion typeface. While I was not that satisfied with the logo. If given more time, I would have refined the logo design and polished it. It was not professionally designed. So I decided not to use the logo on my product, and only to keep the wordmark. It would be tested later. 
+Raven
+Clickable Prototype & User Testing, Round 2
+After the user testing and wireframe mockups, I created the high fidelity mockups followed the style guide, and another clickable prototype with InVision.  I conducted 3 usability tests and received the final testing results. Users agree with that a cloud storage product would be better have a minimal and professional design. Limited text using is approved by users. The homepage is concise and clean.  The colors are compatible. Dodger blue as a brand primary color successfully delivers the professional and creative spirit. Some enrichment is necessary, like user testimonials and footer, which I have updated in the finishing touches.  Logo typeface is approved by users, while one user states the font size of this logo is small for the desktop screen, compared with the heading next to it. The balance between logo and content is worth to think over. Dashboard layout design is argued. Some users like the large thumbnails, but others argue that they are too large, and it could be better if put 4 images/previews in one row.  The mobile screens sign in, sign up and forget password is plain and clean. One user prefers to add more details. However, we’d like to keep the page simple in order to draw users’ attention to the sign in/ sign up process. Users would like to see organized and professional pages from a cloud storage product and to achieve their goals with effective and minimal working. 
+View Prototype
+Next
+Next Project Name
+Conclusion
+What I learned
+This is the first UX design project I’ve ever done, from the research to the user testing. It is not an easy process, but I’m happy with the final result. I was most surprised by the fact that visual design was just a small part of the project. Throughout the checkpoint, the research and testing took so important places. The product improved after every time of user testing. However, if given more time, I would have refined the logo design. It was not professionally designed. I would have polished the logo.  While doing the project, I learned the full process and workflow of creating a new product. For my future projects, I will try to separate each working stage with different priorities and use the certain time to complete each of them.   
+Back to Top
+Competitive Analysis
+The next step of a research phase is a competitive analysis. The techniques of competitive analysis can help me dig deeper into the current cloud storage market. It shows what the expected features are and illuminate areas of the market not being adequately served. I picked Google Drive, Dropbox, and iCloud to analyze. Through the SWOT analysis, I have gained a good level insight into the competitors. Google Drive combines a set of office tools (Google Docs, Google Sheets, Google Slides, and etc.) with cloud storage in the drive, and is easily enabled to the existing Google account. Dropbox has a clean visual design. The mobile apps and desktop apps are beautiful and easy to navigate. However it only offers 2GB free storage, and after that user has to pay $10 per month for 1TB. iCloud has the reasonable pricing: 50GB for $0.99/month and a tight integration with Apple’s platforms. While it doesn’t handle collaborative editing as well as Google drive does. Though real-time co-editing is supported, a user can't see who's typing what. 
+Research &  Exploration
+User Personas
+After the analysis of the user survey, I interviewed three users and have developed two user personas.
+User Research
+In the user research phase, I began with a user survey. One of the primary goals of this survey is Determining what features users actually want. The survey is also a great place to augment the competitive analysis by getting users thoughts on the competition. 
+	• 	Sharing items, uploading files, large free storage, and easy file organization are the top important features for users. Among them, sharing items is the most important,  	• 	During all the cloud storage products, only two have been chosen as the favorite. Users select either Google Drive or Dropbox as their favorite service.  	• 	Most collaboration happens between co-workers, and they most often use collaboration tools (Slack, Asana, Google Hangouts, etc.) to achieve it. Email and cloud storage is the second choice.  	• 	Most users collaborate in real time only several times a month or even less often. 
+Sharing Items Uploading Files Large Free Storage Easy File Organization
+Most Important Features
+56% Collaboration Tools 19% Cloud Storage 19% Email 
+Collaboration Methods
+75% Google Drive 25% Dropbox 
+Favorite Cloud Storage
+44% Several Times /month 38% Once a Month or Less 13% Several Times /Week 
+Real-time Collaboration 
+View Prototype
+Raven
+WEB, MOBILE
+A simple and effective cloud storage product
+https://www.raven.com/
+100%
+9:41 AM
+Raven.com
+Save, share, and enjoy all your files from anywhere, with Raven
+Saving the interesting links you find on web, and sharing your Christmas photos with family, meanwhile, collaborating with your team members.
+Raven
+Sign In
+Sign up for free
+© 2018 Designed and Developed by May (Meizhu) Song
+Project Summary
+In this project, I created Raven, which is a simple and effective cloud storage product with a user- friendly and minimalist design. Raven lets you save, share, and enjoy all your files from anywhere. I am the designer of this project. I have used Sketch, Invision, Usability Hub, Draw.io, myBalsamiq, and several Google drive apps (Google Docs, Google Sheets, Google Forms, etc.) to complete this project.  
+UX Design Visual Design Brand & Identity User Research & Testing
+Design Roles
+User Surveys Personas Competitive Analysis Brand Concept User Stories & Flows Paper Prototype Wire-Frames User Testing Visual Design
+Design Deliverables
+Sketch Invision Usability Hub Draw.io myBalsamiq Google Sheets Google Forms
+Skills & Tools
+Problem &  Solution
+Problem
+The client would like to have a cloud storage which has multiple features:  save, organize, and create files, meanwhile collaborating with others. Thus, the main problem that I am facing is how to realize and harmonize those features in one cloud storage product. Additionally, those features have different priorities. This cloud storage product should split the primary and secondary tasks and features. 
+Solution
+With Raven, individuals could save, upload, and organize files for their own purpose. Saving the interesting links you find on the web, and sharing the Christmas photos with family and friends would not affect your collaborating with team members. All your team’s files are stored in the cloud so everyone on the team can access, edit, comment and share any of the files in real time from any device. With the simple and effective design, those functionalities are integrated with one product and can be approached easily by users. 
+View Prototype
+Research &  Exploration
+User Research
+In the user research phase, I began with a user survey. One of the primary goals of this survey is Determining what features users actually want. The survey is also a great place to augment the competitive analysis by getting users thoughts on the competition. 
+	• 	Sharing items, uploading files, large free storage, and easy file organization are the top important features for users. Among them, sharing items is the most important,  	• 	During all the cloud storage products, only two have been chosen as the favorite. Users select either Google Drive or Dropbox as their favorite service.  	• 	Most collaboration happens between co-workers, and they most often use collaboration tools (Slack, Asana, Google Hangouts, etc.) to achieve it. Email and cloud storage is the second choice.  	• 	Most users collaborate in real time only several times a month or even less often. 
+Sharing Items Uploading Files Large Free Storage Easy File Organization
+Most Important Features
+56% Collaboration Tools 19% Cloud Storage 19% Email 
+Collaboration Methods
+75% Google Drive 25% Dropbox 
+Favorite Cloud Storage
+44% Several Times /month 38% Once a Month or Less 13% Several Times /Week 
+Real-time Collaboration 
+Competitive Analysis
+The next step of a research phase is a competitive analysis. The techniques of competitive analysis can help me dig deeper into the current cloud storage market. It shows what the expected features are and illuminate areas of the market not being adequately served. I picked Google Drive, Dropbox, and iCloud to analyze. Through the SWOT analysis, I have gained a good level insight into the competitors. Google Drive combines a set of office tools (Google Docs, Google Sheets, Google Slides, and etc.) with cloud storage in the drive, and is easily enabled to the existing Google account. Dropbox has a clean visual design. The mobile apps and desktop apps are beautiful and easy to navigate. However it only offers 2GB free storage, and after that user has to pay $10 per month for 1TB. iCloud has the reasonable pricing: 50GB for $0.99/month and a tight integration with Apple’s platforms. While it doesn’t handle collaborative editing as well as Google drive does. Though real-time co-editing is supported, a user can't see who's typing what. 
+User Personas
+After the analysis of the user survey, I interviewed three users and have developed two user personas.
+Branding &  Identity
+x
+x
+y
+y
+y
+Raven
+Raven
+Raven
+Brand Identity & Logo
+Raven is committed to creating a simple and effective cloud storage product with a user-friendly and minimalist design. The product name, raven, represents the spirit of sharp, intelligence, and curiosity. A raven not only has the common character as other birds, the exploration of broadness sky but has high intelligence and an organized social structure. They work as a team. As you may know, ravens like to collect valuables and keep their belongings safe. All these characteristics let raven become the best representative of our product. The logo is an integral part of the Raven brand and should be used thoughtfully and consistently. The wordmark should most often be displayed in black/white with or without the logo icon. Our logo can be used either on its own or together with the wordmark which is based on the Damion typeface with the first letter in uppercase giving a sharp and energetic feeling.
+The primary colors of Raven include Dodger Blue, Raven Black, and White. The Dodger Blue represents the bright and intelligent essence of Raven. The Black and White provide the necessary proficiency and reliability. Our accent colors (yellow, purple, blue, and red) provide more ways to highlight and distinguish our product and should be applied sparingly to accent select parts.
+Color Palette
+Merriweather is our brand typeface, and it is primarily used for headlines with initial caps. Open Sans is the complementary typeface of Raven. It is optimized for print, web, and mobile interfaces, and have excellent legibility characteristics in its letterforms. It is used for subtitles, body elements, and labels.
+Brand Typeface
+Information Architecture
+User Stories
+After reviewed my personas again before creating the user stories, I put myself in the shoes of each of those user types and learned about what matters the most to them and what matters the least. Then I created user stories for the new user and return user, and ranked the tasks by importance. User story connects business concerns with the user research. It determines the order in which I will work on things and how long I will work on them. 
+User Flows
+Transforming user stories into user flows is an important step before creating wireframes. I generated several user flows of the high-priority user stories. They are: create an account, sign in, create content, organize content, delete files, upload files, and share items. 
+Enter email and PW
+ Start
+Dashboard
+Link
+Enter new folder name
+ Start
+ Start
+Select move
+Spreadsheet
+ Start
+Items deleted
+Upload successful
+ Start
+Select items
+Select files from pop out window
+Wireframes
+Before investing any time in the visual design, wireframes provide me with a map that can be tested on real people and great clarity into how information will be organized on the screen. The goal was keeping my pages simple, clean, and effortless to use. In order to pin down my final design, I first sketched those high priority features and pages with pen and paper. I also tried different styles of the homepage, dashboard, and the sign in page.
+Low Fidelity Mockups
+In order to test the features I’ve created, the low-fidelity mockups and prototype was the next step. I added more details on the wireframes and completed the most text content for the going forward user testing. Then I created a prototype with InVision.
+User Testing & Visual Design
+User Testing, First Round
+I conducted three usability tests of my low-fidelity mockups. My goal was to direct the testers to provide feedback about the overall user experience and how easy or difficult it is to the following tasks:
+	• 	Signing up for an account. 	• 	Adding a piece of content. 	• 	Organizing a piece of content.
+Based on the feedback, I identified several items could be improved and some other items were approved by users. 
+	• 	Limited text using is approved by users. The homepage is concise and clean, but need some enrichment, like more features, videos, and user testimonials. 	• 	Sign up process is smooth. No popping up window is more convenience and eye-catching, while sign in button would better be enlarged.  	• 	Keeping the design less distractive in order to help users complete their work efficiently. 	• 	Users showed the proper images they thought for the homepage. All images provide a professional working feeling, like a laptop, a cup of coffee on a desk, a notebook and a pencil, etc.
+Preference Testing
+Before investing any time in the visual design, wireframes provide me with a map that can be tested on real people and great clarity into how information will be organized on the screen. The goal was keeping my pages simple, clean, and effortless to use. In order to pin down my final design, I first sketched those high priority features and pages with pen and paper. I also tried different styles of the homepage, dashboard, and the sign in page.
+Between the two homepage design, 40% participants chose the dark color background and 60% chose the light color. The main reasons for choosing dark color are: This background looks more professional; The contrast and readability are better; It is concise and clean, which is a better match for a cloud storage website. The reasons people prefer the light color image as the background are: It’s vivid and fresh; It is trendy and more consistent with the rest color of the homepage; The balloons express a feeling of vitality and exploration.  My original design is the light color with balloons. I’d like to keep it for a better consistency and expression.
+I have created two colors for “update my account” button on the dashboard. Most people (80%) prefer the yellow button. Both of the colors are the accent colors, but with a blue background, yellow gives better contrast, and would easily draw users’ attention. As a result, I would change my original purple button to yellow.
+Between the two types of folder icon, I got a draw). The normal yellow kind of folder is a standard folder design. Participants state that it is easily acceptable. They have been seeing this folder everywhere. While the bluish folder is not that classical but trendy and more marked. Users like the folder on the blue theme. I personally prefer the blue folder, since the theme consistency is important.  
+Challenge
+The challenge I ran into was how to assemble the logo and wordmark together on Raven’s website. The combination of the logo and wordmark was not balanced, and there was not enough space for both on the top left corner. The wordmark had provided the sharp and intelligent feeling of this product with the Damion typeface. While I was not that satisfied with the logo. If given more time, I would have refined the logo design and polished it. It was not professionally designed. So I decided not to use the logo on my product, and only to keep the wordmark. It would be tested later. 
+Raven
+Clickable Prototype & User Testing, Round 2
+After the user testing and wireframe mockups, I created the high fidelity mockups followed the style guide, and another clickable prototype with InVision.  I conducted 3 usability tests and received the final testing results. Users agree with that a cloud storage product would be better have a minimal and professional design. Limited text using is approved by users. The homepage is concise and clean.  The colors are compatible. Dodger blue as a brand primary color successfully delivers the professional and creative spirit. Some enrichment is necessary, like user testimonials and footer, which I have updated in the finishing touches.  Logo typeface is approved by users, while one user states the font size of this logo is small for the desktop screen, compared with the heading next to it. The balance between logo and content is worth to think over. Dashboard layout design is argued. Some users like the large thumbnails, but others argue that they are too large, and it could be better if put 4 images/previews in one row.  The mobile screens sign in, sign up and forget password is plain and clean. One user prefers to add more details. However, we’d like to keep the page simple in order to draw users’ attention to the sign in/ sign up process. Users would like to see organized and professional pages from a cloud storage product and to achieve their goals with effective and minimal working. 
+View Prototype
+Conclusion
+What I learned
+This is the first full cycle UX design project I’ve ever done, from the research to the user testing. It is not an easy process, but I’m happy with the final result. I was most surprised by the fact that visual design was just a small part of the project. Throughout the checkpoint, the research and testing took so important places. The product improved after every time of user testing. However, if given more time, I would have refined the logo design. It was not professionally designed. I would have polished the logo.  While doing the project, I learned the full process and workflow of creating a new product. For my future projects, I will try to separate each working stage with different priorities and use the certain time to complete each of them.   
+Back to Top
+Yo-Yo Ma
+Passion is one great force that unleashes creativity, because if you're passionate about something, then you're more willing to take risks.
+© 2018 Designed and Developed by May (Meizhu) Song
+Three years ago, when I picked up the painting brush, I realized things had to be changed.  I like drawing from a very early age. I drew the cartoon and comic with my best friend when we were in elementary school. We created a character who was a teenage girl and a super detective with purple eyes and blond hair. Yes, purple eyes… I don’t remember the character’s name, but that must be the earliest girl power awareness of my friend and I. We went to different middle schools and my passion of art was repressed because of the heavy schoolwork and the pressure of getting into college.  I selected accounting as my major and even got a master degree the last. I like the analysis and logic behind this field, and keeping a book clean and balanced always makes me fulfilled. However, deep down inside me, the flame of art has never been extinguished. I started sketching and drawing with charcoal and colored pencil in my spare time.  Three years ago, I joined a painting studio and got to know a lot of like-minded friends. We got together and painted every Sunday. That’s when I wanted to switch career. That career can give me a chance to be creative and allow me to play to my analytical and organizational skills. Now I’m here. I found that career.  My observational and analytical ability which developed through years of accounting work help find out design problems and solve them. Then, my art experience help turn the thoughts into reality.
