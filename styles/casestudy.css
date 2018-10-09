@@ -1,0 +1,109 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  background-color: #6fd6f1;
+}
+
+.container {
+  background-color: #fff;
+  margin: 0 auto;
+  width: 90%;
+}
+
+section {
+  background-color: #8f8f8f;
+  /*height: 65.6rem;*/
+  /*margin-top: 2rem;*/
+  padding-top: 10rem;
+  padding-bottom: 18rem;
+  text-align: center;
+}
+
+section.hero {
+  font-family: "Tamil MN", "Ubuntu", Helvetica, sans-serif;
+}
+
+.heroImage {
+  display: none;
+}
+
+section.project {
+  /*display: grid;
+  grid-template-areas:
+  "imgContent"
+  "textContent"*/
+}
+
+.projectImg {
+  /*grid-area: imgContent;*/
+  padding: 11rem 0;
+  display: block;
+  width: 100%
+}
+
+.projecText{
+  /*grid-area: textContent;*/
+  padding: 21rem 0;
+}
+
+.image {
+  position: absolute;
+}
+
+h1 {
+  font-size: 7.2rem;
+  font-weight: bold;
+}
+
+.blockLarge {
+  font-size: 2.4rem;
+  line-height: 3.5rem;
+  margin-top: 3.5rem;
+}
+
+.blockSmall {
+  font-size: 1.8rem;
+  line-height: 2.5rem;
+  margin-top: 3rem;
+}
+
+   /*footer.mdl-mini-footer {
+   bottom: 0;
+   padding: 0.5rem;
+   position: fixed;
+   width: 100%;
+   z-index: 1;
+ }
+ footer.mdl-mini-footer > ul {
+   margin: auto;
+   font-size: 2rem;
+ }*/
+ @media screen and (min-width: 768px) {
+   .container {
+     width: 80%;
+   }
+
+   .heroText{
+     float: left;
+     width: 50%
+   }
+   .heroImage {
+     float: right;
+   }
+   section.project {
+     /*grid-template-columns: 8fr 4fr;
+     grid-template-areas:
+     "imgContent textContent"*/
+   }
+ }
+ @media screen and (min-width: 1000px) {
+   .container {
+     width: 80%;
+   }
+ }

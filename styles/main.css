@@ -11,15 +11,43 @@ body {
 }
 
 .container {
-  background-color: #fff;
+  background-color: #8f8f8f;
   margin: 0 auto;
   width: 90%;
 }
 
+.main-nav {
+    list-style-type: none;
+    display: none;
+}
+
+.active {
+  display: block;
+}
+
+.main-nav li {
+    text-align: center;
+    margin: 1.5rem auto;
+}
+.logo {
+    display: inline-block;
+    font-size: 2.2rem;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+
+.navbar-toggle {
+    position: absolute;
+    top: 1rem;
+    right: 5rem;
+    cursor: pointer;
+    color: ;
+    font-size: 2.4rem;
+}
+
 section {
-  background-color: #8f8f8f;
-  /*height: 65.6rem;*/
-  margin-top: 2rem;
+  /*margin-top: 2rem;*/
+  margin: 0 auto;
   padding-top: 10rem;
   padding-bottom: 18rem;
   text-align: center;
@@ -29,26 +57,38 @@ section.hero {
   font-family: "Tamil MN", "Ubuntu", Helvetica, sans-serif;
 }
 
-section.project {
-  display: grid;
-  grid-template-areas:
-  "imgContent"
-  "textContent"
+.heroImage {
+  display: none;
 }
 
-.imgContent {
-  grid-area: imgContent;
-  padding: 11rem 0;
+
+.ravenImg {
+  /*grid-area: imgContent;*/
+  max-width: 100%;
+  height: auto;
+  padding: 11rem 5rem;
+  /*position: relative;
+  top: 0;
+  left: 0;*/
 }
 
-.textContent{
-  grid-area: textContent;
-  padding: 21rem 0;
+/*.bottom {
+  position: relative;
+  top: 0;
+  left: 0;
 }
 
-.image {
+.top {
   position: absolute;
+  top: -3rem;
+  left: 5rem;
+}*/
+
+.projecText{
+  /*grid-area: textContent;*/
+  padding: 5.5rem 0;
 }
+
 
 h1 {
   font-size: 7.2rem;
@@ -81,12 +121,53 @@ h1 {
  @media screen and (min-width: 768px) {
    .container {
      width: 80%;
+     overflow: auto;}
+
+   .navbar {
+           display: flex;
+           justify-content: space-between;
+           padding-bottom: 0;
+           height: 70px;
+           align-items: center;
+       }
+       .main-nav {
+           display: flex;
+           margin-right: 30px;
+           flex-direction: row;
+           justify-content: flex-end;
+       }
+       .main-nav li {
+           margin: 0;
+       }
+       .nav-links {
+           margin-left: 40px;
+       }
+       .logo {
+           margin-top: 0;
+       }
+      .navbar-toggle {
+          display: none;
+       }
+       .logo:hover,
+       .nav-links:hover {
+           color: rgba(255, 255, 255, 1);
+       }
+
+   .heroText{
+     float: left;
+     width: 50%;
    }
-   section.project {
-     grid-template-columns: 8fr 4fr;
-     grid-template-areas:
-     "imgContent textContent"
+
+   .projecText{
+     float: left;
+     width: 40%;
    }
+
+   .ravenImg{
+     float: right;
+     width: 60%;
+   }
+
  }
  @media screen and (min-width: 1000px) {
    .container {
