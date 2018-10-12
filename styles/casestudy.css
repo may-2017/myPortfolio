@@ -11,79 +11,54 @@ body {
 }
 
 .container {
-  background-color: #fff;
+  background-color: #8f8f8f;
   margin: 0 auto;
   width: 90%;
 }
 
 section {
-  background-color: #8f8f8f;
   /*height: 65.6rem;*/
   /*margin-top: 2rem;*/
+  margin: 0 auto;
   padding-top: 10rem;
   padding-bottom: 18rem;
   text-align: center;
+}
+
+hr {
+  border: none;
+  height: 0.2rem;
+  /* Set the hr color */
+  color: #00ffff; /* old IE */
+  background-color: #00ffff; /* Modern Browsers */
+  width: 6rem;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+}
+
+.ravenImg {
+  max-width: 100%;
+  height: auto;
+  padding: 11rem 5rem;
+}
+
+h2 {
+  background-image: url("stroke_bg.svg");
 }
 
 section.hero {
   font-family: "Tamil MN", "Ubuntu", Helvetica, sans-serif;
 }
 
-.heroImage {
-  display: none;
+ul {
+  text-align: left;
+  list-style: outside;
+  list-style-position: inside;
 }
 
-section.project {
-  /*display: grid;
-  grid-template-areas:
-  "imgContent"
-  "textContent"*/
-}
-
-.projectImg {
-  /*grid-area: imgContent;*/
-  padding: 11rem 0;
-  display: block;
-  width: 100%
-}
-
-.projecText{
-  /*grid-area: textContent;*/
-  padding: 21rem 0;
-}
-
-.image {
-  position: absolute;
-}
-
-h1 {
-  font-size: 7.2rem;
-  font-weight: bold;
-}
-
-.blockLarge {
-  font-size: 2.4rem;
-  line-height: 3.5rem;
-  margin-top: 3.5rem;
-}
-
-.blockSmall {
-  font-size: 1.8rem;
-  line-height: 2.5rem;
-  margin-top: 3rem;
-}
-
-   /*footer.mdl-mini-footer {
-   bottom: 0;
-   padding: 0.5rem;
-   position: fixed;
-   width: 100%;
-   z-index: 1;
- }
- footer.mdl-mini-footer > ul {
-   margin: auto;
-   font-size: 2rem;
- }*/
  @media screen and (min-width: 768px) {
    .container {
      width: 80%;
