@@ -7,17 +7,27 @@ html {
 }
 
 body {
-  background-color: #fff;
+  background-color: transparent;
+  background-image: linear-gradient(to right, #cbdcd6 0.3px, transparent 1px);
+  background-size: 20% 100%;
+  background-repeat: repeat-x;
+  background-position: 12.5%;
+  background-attachment: fixed;
+  color: #000;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 .container {
-  background-color: #f9f9f9;
+  background-color: transparent;
+  flex: 1 0 auto;
   margin: 0 auto;
   width: 90%;
 }
 
 .main-nav {
-  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Tamil MN', 'Helvetica Neue', Helvetica, sans-serif;
   font-size: 1.4rem;
   font-weight: bold;
   list-style-type: none;
@@ -68,16 +78,13 @@ section {
   margin-top: 10rem;
 }
 
-.heroText {
-  color: #2f2f2f;
-}
+.heroText {}
 
 .heroImage {
   display: none;
 }
 
 h1 {
-  color: #000;
   font-size: 7.2rem;
   font-weight: bold;
 }
@@ -110,7 +117,7 @@ h1 {
 
 .project-text {
   color: #2f2f2f;
-  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, arial, sans-serif;
   padding: 5.5rem 0;
   padding-left: 4rem;
   text-align: left;
@@ -158,31 +165,24 @@ h3 {
 }
 
 footer {
-  padding: 5rem 0;
+  flex-shrink: 0;
+  padding-top: 10rem;
+  padding-bottom: 5rem;
   text-align: center;
-}
-
-hr {
-  border: none;
-  background-color: #979797;
-  /* Modern Browsers */
-  color: #979797;
-  /* old IE */
-  height: 0.1rem;
-  /* Set the hr color */
-  margin-top: 0;
-  margin-bottom: 3rem;
-  width: 90%
 }
 
 .contact-footer {
   margin: 0 auto;
-  padding: 3rem 0;
+  padding: 2rem 0;
   width: 20rem;
 }
 
 .logo-footer {
-  width: 10%;
+  width: 4rem;
+}
+
+.contact-icon-footer {
+  width: 1.5rem;
 }
 
 @media screen and (min-width: 768px) {
@@ -294,10 +294,6 @@ hr {
   hr {
     width: 61.5rem;
   }
-
-  .logo-footer {
-    width: 4rem;
-  }
 }
 
 @media screen and (min-width: 1100px) {
@@ -375,10 +371,6 @@ hr {
   hr {
     margin-bottom: 5rem;
     width: 109.2rem;
-  }
-
-  .logo-footer {
-    width: 6rem;
   }
 }
 
