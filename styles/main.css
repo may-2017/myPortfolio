@@ -167,7 +167,7 @@ h3 {
 footer {
   flex-shrink: 0;
   padding-top: 10rem;
-  padding-bottom: 5rem;
+  padding-bottom: 2rem;
   text-align: center;
 }
 
@@ -225,7 +225,7 @@ footer {
 
   .logo:hover,
   .nav-links:hover {
-    color: rgba(255, 255, 255, 1);
+    color: #6fd6f1;
   }
 
   .blockLarge {
